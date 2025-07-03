@@ -18,3 +18,7 @@ This project demonstrates how to host a simple static website using **Docker** a
 
 ## 📂 Project Structure
 
+my-webapp/
+├── Dockerfile
+├── index.html
+└── style.css
